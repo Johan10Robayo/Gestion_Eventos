@@ -1,0 +1,21 @@
+.fondo3{
+    background:url(../imagenes/fon1.jpg);
+ 	background-size: cover;
+	background-attachment: fixed;
+	box-sizing: border-box; 
+        
+        
+}
+
+.fondo_info{
+    
+    background: black;
+    opacity: .60;
+    color:white;
+    border-radius: 6px;
+    font-weight: bold;
+}
+.tabla{
+    position: relative;
+    top:300px;
+}

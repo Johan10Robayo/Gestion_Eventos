@@ -1,0 +1,52 @@
+
+h2{
+    color:white;
+    font-family: roboto;
+}
+
+p{
+    color: white;
+    font-family: roboto;
+}
+.contenedorform{
+	width: 400px;
+	background: #24303c;
+	padding: 30px;
+	margin:auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+        opacity: .85;
+	box-shadow: 7px 13px 37px #000;
+}
+
+.fondologin{
+    background:url(../imagenes/banner.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+
+
+.contenedor1{
+	background: #3e2723;
+	border-collapse: collapse;
+	width: 70%;
+        opacity: .85;
+        border-radius: 6px;
+}
+.fondo{
+    background:url(../imagenes/teatros.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+.fondo2{
+    background:url(../imagenes/auditorios.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+}
+
+
