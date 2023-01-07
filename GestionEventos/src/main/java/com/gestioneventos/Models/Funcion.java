@@ -10,7 +10,7 @@ import java.util.Date;
 
 @Entity
 @Table(name="funcion",uniqueConstraints = {
-        @UniqueConstraint(columnNames = {"id_evento", "fecha","hora"})
+        @UniqueConstraint(columnNames = {"id_evento", "nombre_recinto","fecha","hora"})
 })
 
 @NoArgsConstructor
@@ -26,7 +26,9 @@ public class Funcion {
     @ManyToOne
     @JoinColumn(name = "id_evento")
     private Evento evento;
-
+    @ManyToOne
+    @JoinColumn(name = "nombre_recinto")
+    private Recinto recinto;
     @Column(name = "fecha",nullable = false)
     private Date fecha;
 
