@@ -11,6 +11,11 @@ public class GeneralController {
 
         return "index";
     }
+    @GetMapping("/login")
+    public String ligin (){
+
+        return "login";
+    }
 
 
 }

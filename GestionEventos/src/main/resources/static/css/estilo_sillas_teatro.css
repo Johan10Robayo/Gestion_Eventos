@@ -1,5 +1,5 @@
 .fondo3{
-    background:url(../imagenes/fon1.jpg);
+    background:url(static/img/fon1.jpg);
  	background-size: cover;
 	background-attachment: fixed;
 	box-sizing: border-box; 
