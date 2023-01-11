@@ -1,12 +1,11 @@
 package com.gestioneventos.Models;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+
+
 
 
 @Entity
@@ -19,6 +18,8 @@ public class Persona {
     @Id
     @Column(name = "id", length = 20)
     private String id;
+
+
 
     @Column(name = "tipo_documento", nullable = false, length = 30)
     private String tipo_documento;

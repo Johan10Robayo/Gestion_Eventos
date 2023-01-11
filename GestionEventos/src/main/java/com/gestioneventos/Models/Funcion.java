@@ -23,10 +23,10 @@ public class Funcion {
     @Column(name = "id")
     private Long id;
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumn(name = "id_evento")
     private Evento evento;
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumn(name = "nombre_recinto")
     private Recinto recinto;
     @Column(name = "fecha",nullable = false)
@@ -38,8 +38,9 @@ public class Funcion {
     @Column(name = "descripcion",nullable = false,length = 45)
     private String descripcion;
 
-    public Long getId() {
-        return id;
-    }
+    @Column(name = "precio",nullable = false)
+    private int precio;
+
+
 
 }

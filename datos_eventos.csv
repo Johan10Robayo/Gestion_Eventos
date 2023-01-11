@@ -1,0 +1,19 @@
+id;descripcion ;director;duracion;nombre;poster;reparto;tematica
+HM1;Será la nueva comedia de amor y desamor;Ania y Pawel Nowicki;200;Hombre con hombre mujer con mujer;/img/teatros/hombre_mujer.jpg;Fernando Solorzano y Marcela carvajal;comedia
+CHG1;Magistral obra realizada por una de las mentes creadoras del teatro;Antonio Blanco;130;Chicago;/img/teatros/chicago.jpg;Nicola Fella y Andrea Boccelli;Drama
+DTNR1;Una de las mejores comedias en castellano de nuestro siglo;Juan Tenorio;120;Don Juan Tenorio;/img/teatros/donjuantenorio.jpg;José Zorilla;comedia
+DVCM1;Relación de un viaje a lo largo del cual el autor encuentra su propia identidad;Dante Alighieri;290;Divina Comedia;/img/teatros/divinacomedia.jpg;Giovanni Boccacio;Epico
+OTL1;Otelo es una tragedia, como Hamlet, Macbeth y El rey Lear;William Shakespeare;340;Otelo;/img/teatros/otelo.jpg;Enrique Borrás;Tragedia
+CDMA1;Se basa en un hecho histórico acontecido en la tierra natal del escritor;Marcelo Bailey;100;Crónica de una muerte anunciada;/img/teatros/cronica.jpg;Carlos Fujimori, Andrea Vidal, Juan Pinilla y Lucy Valdivia;Tragedia
+LCTN1;La obra hilvana una trama donde las costumbres, relaciones y sentimientos tienen igual importancia para todos independientemente de su condición social;José Luis Gómez;130;La Celestina;/img/teatros/la_celestina.jpg;Marta Belmonte, Diana Bernedo, Miguel Cubero, Palmira Ferrer y Chete Lera;Tragicomedia
+DCRS1;Una obra que ha dejado sin aliento a miles de espectadores;Martin Sebastian;270;Dos Caras;/img/teatros/arcadia.jpg;Emelie Ortegra y Frank Ribery;Drama
+HMLT1;La tragedia de Hamlet, príncipe de Dinamarca, o simplemente Hamlet;William Shakespeare;330;Hamlet;/img/teatros/hamlet.jpg;Ofelia, Príncipe Hamlet, Claudius, Polonio y Horacio;Tragedia
+JKR1;Obra adaptada del comic Joker creado por DC COMICS;Todd Phillips;160;Joker;/img/auditorios/joker.jpg;Robert De Niro;Suspenso
+JJRBT1;Obra basada en el libro Caging Skies de Christine Leunens;Taika Waititi;180;Jojo Rabbit;/img/auditorios/jojorabbit.jpg;Roman Griffin Davis y Thomasin McKenzie;Comedia negra
+ELHLM1;Narra la historia de Enola Holmes mientras se embarca en la busqueda de su madre junto a sus hermanos;Harry Bradbeer;123;Enola Holmes;/img/auditorios/enolaholmes.jpg;Millie Bibby Brown, Sam Caflin y Henry Cavill;Misterio
+MSRCT1;Recibió reseñas mixtas de parte de la crítica, quienes alabaron las actuaciones de Hemsworth y Hooda;Sam Hargrave;200;Mision de Rescate;/img/auditorios/misionderescate.jpg;Chris Hemsworth, Rudhrask Jaiswal y Randeep Hooda;Accion
+JJBGT1;Regresa en concierto presentando a su publico una vez más su extrema presentación, estilo y la inconfundible voz de la bella Tatiana Shmaylyuk;Pablo Carranza;150;Jinjer en Bogotá;/img/auditorios/jinjer.jpg;Tatiana Shmaylyuk, Eugene Abdiukhanov, Roman Ibramkhalilov y Vlad Ulasevich;Death metal progresivo
+SRDNFT1;Conéctate con otros estudiantes, comparte tus proyectos y construye conexiones profesionales;Enrrique Martínez;200;Seguridad informática;/img/auditorios/s_informatica.jpg;Ing Felipe Corredor,  ing Freddy Vega e ing Carlos Quintero;Tecnología
+TRRST1;La legendaria agrupación de La Rioja España celebra más de 30 años de historia con una especial gira de conciertos que recorrera Amercia Latina;Eduardo Carrillo;130;Regresa TIERRA SANTA en concierto a Colombia;/img/auditorios/tierra_santa.jpg;Ángel San Juan, Roberto Gonzalo, David Carrica, Juanan San Martín y Dan Diez;heavy metal y power metal épico de La Rioja
+STWRS1;Obra aclamada por fans de Star Wars nominada a 7 premios latinos;Enrique Segoviano;300;Star Wars;/img/auditorios/stars.jpg;Arturito Ramirez, Jedi Salamaca y Jose Perez;Ciencia ficcion
+NRNA1;Un ropero esconde el secreto de todos los males del mundo;Alfredo Wallace;230;Cronicas de Narnia;/img/auditorios/leon.jpg;Alfredo Phoenix y Alice Cooper;Epica

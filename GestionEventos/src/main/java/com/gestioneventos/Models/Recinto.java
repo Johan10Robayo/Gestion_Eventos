@@ -16,7 +16,7 @@ import lombok.Setter;
 public class Recinto {
 
     @Id
-    @Column(name="nombre",length = 20)
+    @Column(name="nombre",length = 50)
     private String nombre;
     @Column(name="tipo",nullable = false,length = 20)
     private String tipo;

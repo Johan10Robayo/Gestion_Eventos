@@ -20,7 +20,7 @@ public class Silla {
     @Column(name="id")
     private String id;
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumn(name = "nombre_recinto",referencedColumnName = "nombre")
     private Recinto nombre_recinto;
 
@@ -30,7 +30,7 @@ public class Silla {
     private int id_seccion;
 
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumns({
             @JoinColumn(name = "id_seccion",referencedColumnName = "id",nullable = false),
             @JoinColumn(name = "tipo_seccion",referencedColumnName = "tipo",nullable = false),

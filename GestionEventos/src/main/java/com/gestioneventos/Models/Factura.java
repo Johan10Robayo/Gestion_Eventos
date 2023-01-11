@@ -16,15 +16,15 @@ public class Factura {
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumn(name = "correo_cuenta",referencedColumnName = "correo",nullable = false)
     private Cuenta cuenta;
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumn(name = "id_funcion",referencedColumnName = "id",nullable = false)
     private Funcion funcion;
 
-    @ManyToOne
+    @ManyToOne(cascade = {CascadeType.REMOVE, CascadeType.REFRESH})
     @JoinColumns({
             @JoinColumn(name = "id_silla",referencedColumnName = "id",nullable = false),
             @JoinColumn(name = "nombre_recinto",referencedColumnName = "nombre_recinto",nullable = false),

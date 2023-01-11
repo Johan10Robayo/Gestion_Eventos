@@ -1,0 +1,21 @@
+descripcion;fecha;hora;id_evento;nombre_recinto;precio
+No te pierdas el gran estreno;2023-05-1;13:00:00;HM1;Jaime Lombano;20000
+Segundo día de estreno;2023-05-2;12:00:00;HM1;Tomas Monsalve;23000
+Gran Estreno;2023-06-3;8:30:00;CHG1;Santiago Segundo;15000
+No te pierdas el gran estreno;2023-08-4;9:30:00;DTNR1;Juan Ignacio;50000
+No olvides llevar flores;2023-09-5;10:30:00;DVCM1;Velez Torres;30000
+Gran Estreno;2023-06-6;11:30:00;OTL1;La Vorágine;23000
+No olvides llevar gafas ;2023-05-7;7:00:00;CDMA1;Carlos Hoyos;5000
+No te pierdas las útimas entradas;2023-05-8;14:45:00;LCTN1;Eduado Carranza;40000
+Lleva antifaz para más diversión;2023-05-9;15:45:00;DCRS1;Carlos Galán;28000
+Gran Estreno;2023-11-10;16:45:00;HMLT1;Jorge Gaitán;58000
+No te pierdas las últimas entradas;2023-09-11;8:23:00;JKR1;Catalina Tercera;30000
+Gran Estreno;2023-07-12;9:40:00;JJRBT1;Diosdado Cabello;25000
+No te pierdas el gran estreno;2023-08-13;12:00:00;ELHLM1;Aurelio Maximo;32000
+Gran Estreno;2023-10-14;13:35:00;MSRCT1;Juan De Aquino;12000
+Gran Estreno;2023-12-15;14:25:00;JJBGT1;Teresa Tercera;34000
+Gran evento internacional;2023-05-16;10:00:00;SRDNFT1;Jimena Maria;5000
+Gran evento nacional;2023-05-17;16:000:00;TRRST1;La sabana;20000
+Gran evento nacional;2023-05-18;19:00:00;STWRS1;León de Greiff;34000
+Gran evento internacional;2023-06-1;10:30:00;NRNA1;Hall 74;20000
+Gran evento internacional;2023-06-2;11:30:00;NRNA1;León de Greiff;23000
